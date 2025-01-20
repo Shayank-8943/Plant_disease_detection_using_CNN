@@ -1,1 +1,2 @@
 # Plant_disease_detection_using_CNN
+It focuses on a Plant Disease Detection System powered by Machine Learning (ML) for the recognition and categorization of various diseases that affect plants. As with the existing system, it uses images of plant leaves that are analyzed by pre-trained Convolutional Neural Networks (CNNs) to identify the specific disease. This system is aimed at promoting sustainable agriculture by giving farmers a simple yet effective tool to identify diseases early on, reducing the amount of pesticides used, and leading to healthier crops.
